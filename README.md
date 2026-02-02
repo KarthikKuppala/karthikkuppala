@@ -1,6 +1,8 @@
 # Howdy, I'm Karthik 👋
 
-![Matrix Header](https://raw.githubusercontent.com/k69uz/k69uz/master/matrix.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k69uz/k69uz/master/matrix.gif" width="100%" />
+</p>
 
 ---
 <p align="left">
@@ -31,6 +33,9 @@ Here's the tools you'll find me using (tech stack):
 ---
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikkuppala&show_icons=true&theme=tokyonight" alt="Karthik's GitHub Stats" /><br><br>
-  <img src="https://komarev.com/ghpvc/?username=karthikkuppala&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikKuppala&show_icons=true&theme=tokyonight" alt="Karthik's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarthikKuppala&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
