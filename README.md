@@ -1,8 +1,7 @@
 # Howdy, I'm Karthik 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kaka&color=auto&height=200&section=header&text=Welcome&fontSize=70" width="100%" />
-</p>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d58006ae-1e5a-433f-9b6f-cf06f3519add" />
+
 
 <p align="left">
 <a href="mailto:karthikkuppala23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -37,10 +36,7 @@ I specialize in AI and Data analytics. Here is my tech stack:
 
 ---
 
-### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikKuppala&show_icons=true&theme=dark&hide_border=true" />
-</p>
+Thank you for checking me out <3
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KarthikKuppala-Counter&label=Profile%20Views&color=blue&style=flat" />
