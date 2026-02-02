@@ -31,6 +31,6 @@ Here's the tools you'll find me using (tech stack):
 ---
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Karthik's GitHub Stats" /><br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikkuppala&show_icons=true&theme=tokyonight" alt="Karthik's GitHub Stats" /><br><br>
+  <img src="https://komarev.com/ghpvc/?username=karthikkuppala&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
