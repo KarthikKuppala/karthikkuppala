@@ -1,6 +1,6 @@
 # Howdy, I'm Karthik 👋
 
-![Header Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70)
+![Matrix Header](https://raw.githubusercontent.com/k69uz/k69uz/master/matrix.gif)
 
 ---
 <p align="left">
