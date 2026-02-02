@@ -1,6 +1,7 @@
 # Howdy, I'm Karthik 👋
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d58006ae-1e5a-433f-9b6f-cf06f3519add" />
+<img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/02f9c19a-ca92-4ba0-891b-9be3d8f25655" /><br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d58006ae-1e5a-433f-9b6f-cf06f3519add" />
 
 
 <p align="left">
