@@ -29,7 +29,7 @@ I specialize in AI and Data analytics. Here is my tech stack:
 ---
 
 ### ✍️ Latest Blog Posts
-* [Check out my latest insights on my Portfolio](https://karthikkuppala.github.io/personalportfolio/)
+* [Feb 3rd, 2026: "How I’m Learning AI and Machine Learning in 2026"](https://karthikkuppala.github.io/personalportfolio/blog1.html)
 ---
 
 ### 🏛️ Words I Live By
